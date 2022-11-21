@@ -31,7 +31,7 @@ Sou um dev junior atualmente cursando o [Curso de Desenvolvimento Full Stack Dri
   <div>
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="most used languages" height="192px"  width="500px"/>
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=duanzin&show_icons=true" />
-    <a href="https://github.com/duanzin/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a href="https://github.com/duanzin/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duanzin&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   </div>
 </div>
 
