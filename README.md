@@ -29,8 +29,10 @@ Sou um dev junior atualmente cursando o [Curso de Desenvolvimento Full Stack Dri
   <!-- GitHub section -->
  <div>
   <strong>GitHub Stats<strong> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duanzin" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <div>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duanzin" alt="Gift's LangStat" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  </div>
 </div>
 
 **Expand to view**
