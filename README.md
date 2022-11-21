@@ -3,13 +3,14 @@
 <h3 align="center">HI there, i'm Lucas Duan</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-duan-aab21a257/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/lucas-duan-aab21a257/"><img alt="LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
+</a>
 </p>
 
 ---
-Sou um dev junior atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/)
+Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/)
 
-I'm a junior web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/)
+I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/)
 
 <div>
  
