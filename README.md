@@ -9,6 +9,8 @@
 ---
 Sou um dev junior atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/)
 
+I'm a junior web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/)
+
 <div>
  
 ### Linguagens / Languages: 
