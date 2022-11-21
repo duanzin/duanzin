@@ -8,9 +8,11 @@
 </p>
 
 ---
-Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/)
+Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/).
+Minha especialidade é desenvolvimento front-end, mas estou estudando para me tornar fullstack.
 
-I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/)
+I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/).
+My specialty is front-end development, but i'm studying to become a fullstack dev.
 
 <div>
  
