@@ -26,8 +26,8 @@ I'm a junior web dev currently on the [Driven Full Stack Development Course](htt
 
  <div>
   <h3>Github Stats</h3>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" width="420px" height="500px"/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=duanzin&show_icons=true&theme=radical"width="420px" height="500px"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" width="420px"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=duanzin&show_icons=true&theme=radical"width="420px"/>
     <a href="https://github.com/duanzin/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duanzin&custom_title=Lucas%20Contribution%20Graph&theme=react-dark" /></a>
 </div>
 
