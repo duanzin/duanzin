@@ -9,10 +9,10 @@
 
 ---
 Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/).
-Minha especialidade é desenvolvimento front-end, mas estou estudando para me tornar fullstack.
+Tenho conhecimento de programação front-end com javascript e react, e back-end com node, mongodb e postgresql.
 
 I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/).
-My specialty is front-end development, but i'm studying to become a fullstack dev.
+I'm experienced in front-end programming with javascript and react, and back-end with node, mongodb and postgresql.
 
 <div>
  
