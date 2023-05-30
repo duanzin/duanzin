@@ -18,7 +18,7 @@ I'm experienced in fullstack programming with html, css, tailwind, javascript, t
  
 ### Linguagens / Languages: 
   
-<img alt="language icons" src="https://skillicons.dev/icons?i=js,html,css,tailwind,styledcomponents,js,ts,react,nextjs,nodejs,postgres,prisma,mongodb" />
+<img alt="language icons" src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,nodejs,postgres,prisma,mongodb" />
 
   
 </div>
