@@ -9,10 +9,10 @@
 
 ---
 Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/).
-Tenho conhecimento de programação front-end com javascript e react, e back-end com node, mongodb e postgresql.
+Tenho conhecimento de programação fullstack usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb ,postgresql e prisma.
 
 I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/).
-I'm experienced in front-end programming with javascript and react, and back-end with node, mongodb and postgresql.
+I'm experienced in fullstack programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb ,postgresql and prisma.
 
 <div>
  
