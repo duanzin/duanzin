@@ -9,10 +9,10 @@
 
 ---
 Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/).
-Tenho conhecimento de programação fullstack usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb ,postgresql e prisma.
+Tenho conhecimento de programação fullstack usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql e prisma.
 
 I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/).
-I'm experienced in fullstack programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb ,postgresql and prisma.
+I'm experienced in fullstack programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql and prisma.
 
 <div>
  
@@ -22,6 +22,7 @@ I'm experienced in fullstack programming with html, css, tailwind, javascript, t
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
   
 </div>
