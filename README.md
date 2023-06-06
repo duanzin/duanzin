@@ -8,11 +8,9 @@
 </p>
 
 ---
-Sou um dev atualmente cursando o [Curso de Desenvolvimento Full Stack Driven](https://www.driven.com.br/).
-Tenho conhecimento de programação fullstack usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql e prisma.
+Sou um dev fullstack com conhecimento de programação usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql e prisma.
 
-I'm a web dev currently on the [Driven Full Stack Development Course](https://www.driven.com.br/).
-I'm experienced in fullstack programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql and prisma.
+I'm a fullstack developer experienced in fullstack programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql and prisma.
 
 <div>
  
