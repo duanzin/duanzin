@@ -14,7 +14,7 @@ I'm a fullstack developer experienced in programming with html, css, tailwind, j
 
 <div>
  
-### Linguagens / Languages: 
+### Linguagens e Ferramentas/ Languages and Frameworks: 
   
 <img alt="language icons" src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,nodejs,postgres,prisma,mongodb" />
 
