@@ -24,7 +24,7 @@ I'm a fullstack developer experienced in programming with html, css, tailwind, j
 
  <div>
   <h3>Github Stats</h3>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duanzin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" width="420px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duanzin&layout=compact&theme=radical"/>
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=duanzin&show_icons=true&theme=radical"width="420px"/>
-</div>
+ </div>
 
