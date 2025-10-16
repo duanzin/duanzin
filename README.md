@@ -8,9 +8,9 @@
 </p>
 
 ---
-Sou um dev fullstack com conhecimento de programação usando html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql e prisma.
+Sou um dev fullstack com conhecimento de programação usando css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql e prisma.
 
-I'm a fullstack developer experienced in programming with html, css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql and prisma.
+I'm a fullstack developer experienced in programming with css, tailwind, javascript, typescript, react, nextJS, node, mongodb, postgresql and prisma.
 
 <div>
  
